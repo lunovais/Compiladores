@@ -1,0 +1,11 @@
+inicio
+
+int x ; 
+int y ;
+int mult ;
+
+mult -> x * y ;
+
+escreva ( mult ) ;
+
+fim

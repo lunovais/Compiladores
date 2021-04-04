@@ -1,0 +1,9 @@
+inicio
+
+int x ; 
+int y ;
+int soma ;
+
+soma -> x + y ;
+
+fim

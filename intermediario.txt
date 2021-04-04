@@ -1,0 +1,6 @@
+var x
+var y
+var mult
+mult mult = x * y
+escreva mult
+
